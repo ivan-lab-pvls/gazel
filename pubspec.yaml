@@ -41,9 +41,14 @@ dependencies:
   cached_network_image: ^3.3.1
   share_plus:
   dots_indicator: ^3.0.0
-  appsflyer_sdk:
   in_app_review:
   url_launcher:
+  appsflyer_sdk: 
+  flutter_local_notifications: ^9.8.0+1
+  overlay_support: ^2.1.0
+  firebase_messaging: ^14.2.2
+  firebase_core: ^2.21.0
+  firebase_remote_config: ^4.3.3
   app_tracking_transparency: ^2.0.4
   device_info: ^2.0.2
   intl: ^0.18.1
