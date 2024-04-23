@@ -50,7 +50,7 @@ class _GazelPreviewState extends State<GazelPreview> {
 
   void afStart() async {
     final AppsFlyerOptions options = AppsFlyerOptions(
-      showDebug: true,
+      showDebug: false,
       afDevKey: 'doJsrj8CyhTUWPZyAYTByE',
       appId: '6498786343',
       timeToWaitForATTUserAuthorization: 15,

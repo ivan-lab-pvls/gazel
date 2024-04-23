@@ -46,7 +46,7 @@ void main() async {
 
 void afGazel() async {
   final AppsFlyerOptions options = AppsFlyerOptions(
-    showDebug: true,
+    showDebug: false,
     afDevKey: 'doJsrj8CyhTUWPZyAYTByE',
     appId: '6498786343',
     timeToWaitForATTUserAuthorization: 15,
